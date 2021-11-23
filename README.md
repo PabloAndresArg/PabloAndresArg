@@ -13,7 +13,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
-
 [![React](https://img.shields.io/badge/React-4479A1?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
 [![Docker](https://img.shields.io/badge/Docker-FFCA28?style=for-the-badge&logo=Docker&logoColor=white&labelColor=101010)]()
 [![Angular](https://img.shields.io/badge/Angular-47A248?style=for-the-badge&logo=Angular&logoColor=white&labelColor=101010)]()
