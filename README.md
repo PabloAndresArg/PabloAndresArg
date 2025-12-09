@@ -1,7 +1,10 @@
 # 👋 hello world , my name is Pablo Argueta
-### I am a student of the science and systems career at the University of San Carlos
+### I was a student of the science and systems career at the University of San Carlos. I am currently a technical lead at Zigi app
+
+
 
 ## aws cloud practitioner
+## aws ia cloud practitioner
 
 ## Skills:
 
