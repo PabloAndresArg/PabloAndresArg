@@ -1,7 +1,7 @@
 # 👋 hello world , my name is Pablo Argueta
-### I was a student of the science and systems career at the University of San Carlos. 
-### I am currently a technical lead at Zigi app
-### My hobby is video editing.
+#### I was a student of the science and systems career at the University of San Carlos. 
+#### I am currently a technical lead at Zigi app
+#### My hobby is video editing.
 
 
 
